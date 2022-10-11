@@ -92,7 +92,7 @@ Collaboration and team messaging applications are a popular way of communicating
 Markdown is a natural fit for technical documentation. Companies like GitHub are increasingly switching to Markdown for their documentation. If you write documentation for a product or service, take a look at these handy tools:
 
 - [MkDocs](https://www.mkdocs.org) is a fast and simple static site generator that’s geared towards building project documentation. Documentation source files are written in Markdown and configured with a single YAML configuration file. MkDocs has several [built in themes](https://www.mkdocs.org/user-guide/choosing-your-theme/), including a port of the [Read the Docs](https://readthedocs.org) documentation theme for use with MkDocs.
-- [Docusaurus](https://docusaurus.io) is a is an optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.
+- [Docusaurus](https://docusaurus.io) is an optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.
 - [Jekyll](https://jekyllrb.com) transform your plain text into static websites and blogs.
 
 ---
