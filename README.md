@@ -43,10 +43,8 @@ Markdown applications use something called a Markdown processor (also commonly r
 ## Markdown Flavours
 One of the most confusing aspects of using Markdown is that practically every Markdown application implements a slightly different version of Markdown. These variants of Markdown are commonly referred to as **flavors**.
 
-To wrap your head around the concept of Markdown flavors, it might help to think of them as language dialects. People in New York City speak English just like the people in London, but there are substantial differences between the dialects used in both cities. The same is true for people using different Markdown applications. Using [Dillinger](https://dillinger.io) to write with Markdown is a vastly different experience than using [Ulysses](https://ulysses.app) or [Pandoc](https://pandoc.org).
-
-Practically speaking, this means you never know exactly what a company means when they say they support "Markdown." Are they talking about only the basic syntax elements, or all of the basic and extended syntax elements combined, or some arbitrary combination of syntax elements? You won’t know until you read the documentation or start using the application.
-
+ If you start using [Dillinger](https://dillinger.io) to write with Markdown you will realized that is a vastly different experience than using [Ulysses](https://ulysses.app) or [Pandoc](https://pandoc.org). Practically speaking, this means you never know exactly what a company means when they say they support "Markdown." Are they talking about only the basic syntax elements, or all of the basic and extended syntax elements combined, or some arbitrary combination of syntax elements? You won’t know until you read the documentation or start using the application.
+ 
 If you’re just starting out, the best advice I can give you is to pick a Markdown application with good Markdown support. That’ll go a long way towards maintaining the portability of your Markdown files. You might want to store and use your Markdown files in other applications, and to do that you need to start with an application that provides good support. You can use the [tool directory](https://www.markdownguide.org/tools/) to find an application that fits the bill.
 
 ##  What’s Markdown Good For?
@@ -68,7 +66,7 @@ Here are some Markdown document authoring applications recommended:
 - **Web:** [Dillinger](https://dillinger.io)  or [StackEdit](https://stackedit.io) 
 
 ## Notes
-In nearly every way, Markdown is the ideal syntax for taking notes. Sadly, **Evernote** and **OneNote**, two of the most popular note applications, don’t currently support Markdown. The good news is that several other note applications do support Markdown:
+In nearly every way, Markdown is the ideal syntax for taking notes. **Evernote** and **OneNote**, two of the most popular note applications, don’t currently support Markdown. The good news is that several other note applications do support Markdown:
 
 - [Obsidian](https://obsidian.md) is a popular Markdown note-taking application loaded with features.
 - [Simplenote](https://simplenote.com) is a free, barebones note-taking application available for every platform.
