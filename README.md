@@ -54,6 +54,11 @@ It doesn’t take long to learn the Markdown syntax, and once you know how to us
 
 Here are some examples of what you can do with Markdown.
 
+## Websites
+Markdown was designed for the web, so it should come as no surprise that there are plenty of applications specifically designed for creating website content.
+
+If you are still in trouble to pick a specifically apllications, just pick one of the [many other static site generators available.](https://jamstack.org/generators/)
+
 ## Documents
 Markdown doesn’t have all the bells and whistles of word processors like Microsoft Word, but it’s good enough for creating basic documents like assignments and letters. You can use a Markdown document authoring application to create and export Markdown-formatted documents to PDF or HTML file format. The PDF part is **key**, because once you have a PDF document, you can do anything with it — **print it, email it, or upload it** to a website.
 
