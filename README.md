@@ -60,13 +60,12 @@ Here are some examples of what you can do with Markdown.
 Markdown doesn’t have all the bells and whistles of word processors like Microsoft Word, but it’s good enough for creating basic documents like assignments and letters. You can use a Markdown document authoring application to create and export Markdown-formatted documents to PDF or HTML file format. The PDF part is **key**, because once you have a PDF document, you can do anything with it — **print it, email it, or upload it** to a website.
 
 Here are some Markdown document authoring applications recommended:
-| Platform | App  |
-| :--:     | :--: |
-|  `Mac` | [MacDown](https://macdown.uranusjr.com), [iA Writer](https://ia.net/writer), or [Marked 2](https://marked2app.com) |
-|  `iOS / Android` | [iA Writer](https://ia.net/writer) |
-|  `Windows` | [ghostwriter](https://github.com/KDE/ghostwriter)  |
-|  `Linux` | [ReText](https://retext.ai) or [ghostwriter](https://github.com/KDE/ghostwriter) |
-|  `Web` | [Dillinger](https://dillinger.io)  or [StackEdit](https://stackedit.io) |
+
+- **Mac:** [MacDown](https://macdown.uranusjr.com), [iA Writer](https://ia.net/writer), or [Marked 2](https://marked2app.com) 
+- **iOS / Android:** [iA Writer](https://ia.net/writer) 
+- **Windows:** [ghostwriter](https://github.com/KDE/ghostwriter)  
+- **Linux:** [ReText](https://retext.ai) or [ghostwriter](https://github.com/KDE/ghostwriter) 
+- **Web:** [Dillinger](https://dillinger.io)  or [StackEdit](https://stackedit.io) 
 
 ## Notes
 In nearly every way, Markdown is the ideal syntax for taking notes. Sadly, **Evernote** and **OneNote**, two of the most popular note applications, don’t currently support Markdown. The good news is that several other note applications do support Markdown:
@@ -74,29 +73,24 @@ In nearly every way, Markdown is the ideal syntax for taking notes. Sadly, **Eve
 - [Obsidian](https://obsidian.md) is a popular Markdown note-taking application loaded with features.
 - [Simplenote](https://simplenote.com) is a free, barebones note-taking application available for every platform.
 - [Notable](https://notable.app) is a note-taking application that runs on a variety of platforms.
-- [Bear](https://bear.app) is an Evernote-like application available for `Mac` and `iOS` devices. 
+- [Bear](https://bear.app) is an Evernote-like application available for Mac and iOS devices. 
 - [Boostnote](https://boostnote.io) bills itself as an "open source note-taking app designed for programmers."
 
 ## Books
-Looking to self-publish a novel? Try Leanpub, a service that takes your Markdown-formatted files and turns them into an electronic book. Leanpub outputs your book in PDF, EPUB, and MOBI file format. If you’d like to create paperback copies of your book, you can upload the PDF file to another service such as Kindle Direct Publishing. To learn more about writing and self-publishing a book using Markdown, read this blog post.
-
-## Presentations
-Believe it or not, you can generate presentations from Markdown-formatted files. Creating presentations in Markdown takes a little getting used to, but once you get the hang of it, it’s a lot faster and easier than using an application like PowerPoint or Keynote. Remark (GitHub project) is a popular browser-based Markdown slideshow tool, as are Cleaver (GitHub project) and Marp (GitHub project). If you use a Mac and would prefer to use an application, check out Deckset or Hyperdeck.
+Looking to self-publish a novel? Try [Leanpub](https://leanpub.com), a service that takes your Markdown-formatted files and turns them into an electronic book. Leanpub outputs your book in PDF, EPUB, and MOBI file format. 
 
 ## Email
-If you send a lot of email and you’re tired of the formatting controls available on most email provider websites, you’ll be happy to learn there’s an easy way to write email messages using Markdown. Markdown Here is a free and open-source browser extension that converts Markdown-formatted text into HTML that’s ready to send.
+If you send a lot of email and you’re tired of the formatting controls available on most email provider websites, you’ll be happy to learn there’s an easy way to write email messages using Markdown. [Markdown Here](https://markdown-here.com) is a free and open-source browser extension that converts Markdown-formatted text into HTML that’s ready to send.
 
 ## Collaboration
-Collaboration and team messaging applications are a popular way of communicating with coworkers and friends at work and home. These applications don’t utilize all of Markdown’s features, but the features they do provide are fairly useful. For example, the ability to bold and italicize text without using the WYSIWYG interface is pretty handy. Slack, Discord, Wiki.js, and Mattermost are all good collaboration applications.
+Collaboration and team messaging applications are a popular way of communicating with coworkers and friends at work and home. These applications don’t utilize all of Markdown’s features, but the features they do provide are fairly useful. For example, the ability to bold and italicize text without using the WYSIWYG interface is pretty handy. [Discord](https://discord.com), [Wiki.js](https://js.wiki), and [Mattermost](https://mattermost.com) are all good collaboration applications.
 
 ## Documentation
-Markdown is a natural fit for technical documentation. Companies like GitHub are increasingly switching to Markdown for their documentation — check out their blog post about how they migrated their Markdown-formatted documentation to Jekyll. If you write documentation for a product or service, take a look at these handy tools:
+Markdown is a natural fit for technical documentation. Companies like GitHub are increasingly switching to Markdown for their documentation. If you write documentation for a product or service, take a look at these handy tools:
 
-- Read the Docs can generate a documentation website from your open source Markdown files. Just connect your GitHub repository to their service and push — Read the Docs does the rest. They also have a service for commercial entities.
-- MkDocs is a fast and simple static site generator that’s geared towards building project documentation. Documentation source files are written in Markdown and configured with a single YAML configuration file. MkDocs has several built in themes, including a port of the Read the Docs documentation theme for use with MkDocs. - - One of the newest themes is MkDocs Material.
-- Docusaurus is a static site generator designed exclusively for creating documentation websites. It supports translations, search, and versioning.
-- VuePress is a static site generator powered by Vue and optimized for writing technical documentation.
-- Jekyll was mentioned earlier in the section on websites, but it’s also a good option for generating a documentation website from Markdown files. If you go this route, be sure to check out the Jekyll documentation theme.
+- [MkDocs](https://www.mkdocs.org) is a fast and simple static site generator that’s geared towards building project documentation. Documentation source files are written in Markdown and configured with a single YAML configuration file. MkDocs has several [built in themes](https://www.mkdocs.org/user-guide/choosing-your-theme/), including a port of the [Read the Docs](https://readthedocs.org) documentation theme for use with MkDocs.
+- [Docusaurus](https://docusaurus.io) is a is an optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.
+- [Jekyll](https://jekyllrb.com) transform your plain text into static websites and blogs.
 
 ---
 
