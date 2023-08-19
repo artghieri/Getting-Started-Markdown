@@ -1,9 +1,3 @@
-#
-
-![markdown-banner](https://user-images.githubusercontent.com/102708433/194967977-fc1f708e-13f9-4da0-bdda-a4956c13a688.png)
-
-#
-
 ## What is Markdown?
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor. [John Gruber](https://daringfireball.net/projects/markdown/) and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.
 
